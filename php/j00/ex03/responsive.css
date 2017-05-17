@@ -1,0 +1,19 @@
+      body {background-image: url(http://www.geek-officiel.com/wp-content/uploads/2015/04/big-bang-theory1.jpg);
+	  background-repeat: no-repeat; background-size: 100%; background-color: black;}
+	  table {width: 100%; margin: 10% auto;}
+	  .num {position: absolute;bottom: 1px; left: 1px;font-size: 0.6vw}
+	  .color1 {background-color:powderblue;}
+	  .color2 {background-color:red;}
+	  .color3 {background-color:orange;}
+	  .color4 {background-color:yellow;}
+	  .color5 {background-color:DarkCyan;}
+	  .color6 {background-color:BlueViolet;}
+	  .color7 {background-color:MediumVioletRed;}
+	  .color8 {background-color:MediumTurquoise;}
+	  .color9 {background-color:YellowGreen;}
+	  .color10 {background-color:OliveDrab;}
+	  .name {margin: 30% 30%; font-size: 0.9vw}
+	  .width {position: absolute; right: 1px; top: 1px; font-size: 0.6vw}
+	  td {background-color: #F5DA81; height:3vw; width:4vw; position: relative; border: 1px solid; display: inline-block;}
+	  caption {font-size: 3vw; color:WhiteSmoke;}
+	  .invisible {background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0);}
